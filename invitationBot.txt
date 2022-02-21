@@ -1,0 +1,5 @@
+Un lien pour inviter le bot sur le serveur discord de vôtre choix :
+
+https://discordapp.com/api/oauth2/authorize?client_id=700859298728640573&permissions=1074265201&scope=bot
+
+(hébergé sur une machine 24h/24)
